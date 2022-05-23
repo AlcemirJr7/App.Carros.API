@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>    
+  </PropertyGroup>
+	
+	<PropertyGroup>
+		<ProjectReference Include="..\App.Carros.Domain\App.Carros.Domain.csproj" />
+	</PropertyGroup>
+			
+
+
+</Project>
